@@ -1,10 +1,10 @@
-import {describe, expect, test} from 'vitest'
-import { GifApp } from './GifApp';
-import { render } from '@testing-library/react';
+import {describe, test} from 'vitest'
+// import { expect } from 'vitest'
+// import { GifApp } from './GifApp';
+// import { render } from '@testing-library/react';
 
 describe('GifsApp', () =>{
     test('should render component property', () => {
-        //const {container} = render(<GifApp/>);
-        //expect(container).toMatchSnapshot();
+        // Lógica comentada/pendiente
     })
 });
